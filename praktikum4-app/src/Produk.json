@@ -1,0 +1,59 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "brand": "tiffany",
+    "name": "Toko Bunga Vera",
+    "color": "Bunga Melati",
+    "price": "Rp25.000",
+    "priceCurrency": "IDR",
+    "image":"https://asset.kompas.com/crops/GsCK7f1J2LBFTm1PxmV46i6yku0=/0x22:968x667/750x500/data/photo/2020/11/26/5fbf365e696a5.jpg",
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "Rp25.000",
+      "highPrice": "Rp30.000",
+      "priceCurrency": "IDR",
+      "offerCount": "6",
+      "offers": [
+        {
+          "@type": "Offer",
+          "color": "Bunga Mawar",
+          "price": "Rp20.000",
+          "priceCurrency": "IDR",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Bunga_mawar_merah.jpg",
+          "availability": "https://schema.org/OutOfStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "Bunga Edelweis",
+          "price": "Rp50.000",
+          "priceCurrency": "IDR",
+          "image": "https://hunirayagroup.com/wp-content/uploads/2020/02/bunga-edelweiss-663x1024.jpg",
+          "availability": "https://schema.org/OutOfStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "Bunga Matahari",
+          "price": "Rp30.000",
+          "priceCurrency": "IDR",
+          "image": "https://www.fakta.id/media/uploads/4/fbc47227421af28c829b29d390140fc1.jpg",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "Bunga Dahlia",
+          "price": "Rp20.000",
+          "priceCurrency": "IDR",
+          "image": "https://cf.shopee.co.id/file/7e13e99dfb0cb1f40d0c232c8e8715b9",
+          "availability": "https://schema.org/InStock"
+        },
+        {
+          "@type": "Offer",
+          "color": "Bunga Sakura",
+          "price": "Rp100.000",
+          "priceCurrency": "IDR",
+          "image": "https://cf.shopee.co.id/file/b8329898c56be986edd13ad22078fd93",
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+    }
+  }
