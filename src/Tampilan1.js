@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
 
-class Example1 extends Component {
+class Tampilan1 extends Component {
 	render() {
 		return (
             <section className="atas">
                 <div>
                     <ul id='head'>
-                        <li> Lake's Gaming Store</li>
+                        <li>Toko Bunga Vera</li>
                     </ul>
                 </div>
             </section>    
         );
     }
 } 
-export default Example1;
+export default Tampilan1;

@@ -2,7 +2,7 @@ import './App.css'
 import React, { Component } from 'react';
 import data from "./Produk.json";
 
-class Example3 extends Component {
+class Tampilan3 extends Component {
 	render() {
 		return (
             <div><h3 className='sub-judul'>Produk Lainnya</h3>
@@ -21,4 +21,4 @@ class Example3 extends Component {
         );
     }
 } 
-export default Example3;
+export default Tampilan3;

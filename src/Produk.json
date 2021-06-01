@@ -2,65 +2,57 @@
     "@context": "http://schema.org",
     "@type": "Product",
     "brand": "tiffany",
-    "name": "Lake's Gaming Store",
-    "color": "APEX Legend",
-    "price": "Rp300.000",
+    "name": "Toko Bunga Vera",
+    "color": "Bunga Melati",
+    "price": "Rp25.000",
     "priceCurrency": "IDR",
-    "image":"https://image.api.playstation.com/vulcan/img/rnd/202104/2215/BEGKDmZkfv91uyDHT6n357RK.png?w=1920&thumb=false",
+    "image":"https://asset.kompas.com/crops/GsCK7f1J2LBFTm1PxmV46i6yku0=/0x22:968x667/750x500/data/photo/2020/11/26/5fbf365e696a5.jpg",
     "offers": {
       "@type": "AggregateOffer",
-      "lowPrice": "Rp300.000",
-      "highPrice": "Rp300.000",
+      "lowPrice": "Rp25.000",
+      "highPrice": "Rp30.000",
       "priceCurrency": "IDR",
       "offerCount": "6",
       "offers": [
         {
           "@type": "Offer",
-          "color": "Grand Theft Auto V",
-          "price": "Rp300.000",
+          "color": "Bunga Mawar",
+          "price": "Rp20.000",
           "priceCurrency": "IDR",
-          "image":"https://www.bing.com/th?id=AMMS_88013296954b21cc55b8389aed7caa36&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Bunga_mawar_merah.jpg",
           "availability": "https://schema.org/OutOfStock"
         },
         {
           "@type": "Offer",
-          "color": "Fortnite",
-          "price": "Rp300.000",
+          "color": "Bunga Edelweis",
+          "price": "Rp50.000",
           "priceCurrency": "IDR",
-          "image": "https://www.bing.com/th?id=AMMS_2017013267de8182708c65ce2dff8c85&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "image": "https://hunirayagroup.com/wp-content/uploads/2020/02/bunga-edelweiss-663x1024.jpg",
           "availability": "https://schema.org/OutOfStock"
         },
         {
           "@type": "Offer",
-          "color": "Five Nights at Freddy's",
-          "price": "Rp300.000",
+          "color": "Bunga Matahari",
+          "price": "Rp30.000",
           "priceCurrency": "IDR",
-          "image": "https://www.bing.com/th?id=AMMS_f439c216d7a70d4300645d4a5c3a31a1&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "image": "https://www.fakta.id/media/uploads/4/fbc47227421af28c829b29d390140fc1.jpg",
           "availability": "https://schema.org/InStock"
         },
         {
           "@type": "Offer",
-          "nama": "World of Tanks",
-          "price": "Rp300.000",
+          "color": "Bunga Dahlia",
+          "price": "Rp20.000",
           "priceCurrency": "IDR",
-          "image": "https://www.bing.com/th?id=AMMS_a7383dbc60d391601eb037f0e4810dfc&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "image": "https://cf.shopee.co.id/file/7e13e99dfb0cb1f40d0c232c8e8715b9",
           "availability": "https://schema.org/InStock"
         },
         {
           "@type": "Offer",
-          "color": "Minecraft",
-          "price": "Rp300.000",
+          "color": "Bunga Sakura",
+          "price": "Rp100.000",
           "priceCurrency": "IDR",
-          "image": "https://www.bing.com/th?id=AMMS_27d983627a361a39c3a3e2aff8ad5920&w=120&h=168&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1",
+          "image": "https://cf.shopee.co.id/file/b8329898c56be986edd13ad22078fd93",
           "availability": "https://schema.org/InStock"
-        },
-        {
-          "@type": "Offer",
-          "color": "FIFA 21",
-          "price": "Rp300.000",
-          "priceCurrency": "IDR",
-          "image": "https://th.bing.com/th/id/OIP.kf-yiCrpcHkKyOZsHT461AHaFj?w=231&h=180&c=7&o=5&pid=1.7",
-          "availability": "https://schema.org/InStock"          
         }
       ]
     }
